@@ -1,0 +1,5 @@
+# 3D output and project files
+*.STL
+*.STEP
+*.STP
+*.3mf
