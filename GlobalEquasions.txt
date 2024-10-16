@@ -1,0 +1,3 @@
+="Countersink Diameter@Box Assy.Assembly"
+="Clearance Hole Diameter@Box Assy.Assembly"
+="Nut Trap Diameter@Box Assy.Assembly"
