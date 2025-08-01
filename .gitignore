@@ -1,0 +1,45 @@
+# === SolidWorks Temporary / Backup ===
+~$*
+*.bak
+*.swp
+*.log
+*.err
+*.old
+*.tmp
+*.dmp
+*.temp
+*.sld*#
+*.asd           # Autosave drafts
+
+# === 3D Printing Export Files ===
+*.stl
+*.step
+*.stp
+*.iges
+*.igs
+*.3mf
+*.obj
+
+# === Bambu Studio / Bambu Labs ===
+*.bambu
+*.gcode
+*.mcfx
+*.bblproj
+
+# === System / Tooling Junk ===
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# === VSCode or JetBrains IDE junk ===
+.vscode/
+.idea/
+
+# === Git Folders ===
+*.orig
+
+# === Optional: Output folders ===
+/output/
+/build/
+/exports/
