@@ -1,0 +1,2 @@
+Box[[:space:]]Body.SLDPRT filter=lfs diff=lfs merge=lfs -text
+Box[[:space:]]Assy.SLDASM filter=lfs diff=lfs merge=lfs -text
